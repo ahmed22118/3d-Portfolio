@@ -11,7 +11,7 @@ export const profile = {
   ],
   subtitle: 'AI/ML Engineer • Generative AI • Computer Vision • NLP • Full Stack Developer',
   affiliation: 'Computer Science Student @ FAST-NUCES',
-  email: 'itsahmed219@gmail.com',
+  email: 'itsahmed2419@gmail.com',
   phone: '+92 308 2078155',
   github: 'https://github.com/ahmed22118',
   linkedin: 'https://linkedin.com/in/muhammad-ahmed',
@@ -28,6 +28,16 @@ export const achievements = [
 ]
 
 export const experience = [
+  {
+  org: 'FlyRank AI',
+  role: 'Machine Learning Intern',
+  period: 'June 2026 — Present',
+  points: [
+    'Contributing to the development and fine-tuning of machine learning models in a production AI environment',
+    'Collaborating with the engineering team on data preprocessing, model evaluation, and deployment workflows',
+    'Applying deep learning and NLP techniques to real-world AI-driven product features',
+  ],
+},
   {
     org: 'AIESEC Pakistan',
     role: 'Team Leader — Human Resources',
